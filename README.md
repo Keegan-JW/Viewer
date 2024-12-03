@@ -4,7 +4,7 @@ A simple, not complete, hex viewer
 ## Installation
 
 ```bash
-  Git clone https://github.com/Keegan-JW/Viewer.git
+  git clone https://github.com/Keegan-JW/Viewer.git
   Move into $PATH
 ```
     
@@ -12,11 +12,11 @@ A simple, not complete, hex viewer
 
 ```text
  USAGE:
-    Viewer <file>
+    viewer <file>
 ```
 
 ## Example
 
 ```bash
-    Viewer log.txt
+    viewer log.txt
 ```
